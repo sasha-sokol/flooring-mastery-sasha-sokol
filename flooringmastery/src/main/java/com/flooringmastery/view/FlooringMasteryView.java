@@ -103,7 +103,7 @@ public class FlooringMasteryView {
     }
 
     public String getDate() {
-        return io.readString("Enter date (MMDDYY format)");
+        return io.readString("Enter date (MMDDYYYY format)");
     }
 
     public String getName() {
